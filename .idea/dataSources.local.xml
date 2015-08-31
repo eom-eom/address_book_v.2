@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails addressbook: development" uuid="f2bbd920-c43c-4344-adaa-ef18d6644e5c">
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails addressbook: test" uuid="34a91100-6308-4d74-8381-ebe28d06fe41">
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails addressbook: production" uuid="39a6135a-06a9-49d1-a468-3ed368c7671f">
+      <first-sync>true</first-sync>
+      <user-name>addressbook</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfebdfeedfeedff8dfefdff9dff9dfe8dfe5dfe5dfe1dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+  </component>
+</project>
