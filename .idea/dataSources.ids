@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="Rails addressbook: development" uuid="f2bbd920-c43c-4344-adaa-ef18d6644e5c">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails addressbook: test" uuid="34a91100-6308-4d74-8381-ebe28d06fe41">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails addressbook: production" uuid="39a6135a-06a9-49d1-a468-3ed368c7671f">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
